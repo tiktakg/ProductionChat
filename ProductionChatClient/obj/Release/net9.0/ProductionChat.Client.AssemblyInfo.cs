@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ProductionChat.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cdd1659ac686370a61c8e7f4b70b3f79d0cb989b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26e1e7923cfba22de5a9745f52362d35878035c2")]
 [assembly: System.Reflection.AssemblyProductAttribute("ProductionChat.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ProductionChat.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

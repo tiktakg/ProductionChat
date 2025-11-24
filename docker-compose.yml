@@ -1,0 +1,18 @@
+services:
+  redis:
+    image: redis:7.2-alpine
+    ports:
+      - "6379:6379"
+    restart: unless-stopped
+
+  chat-server:
+    build: 
+      context: .
+      dockerfile: Dockerfile
+    ports:
+       - "5000-5002:80"
+    environment:
+      - RedisConnection=redis:6379
+    depends_on:
+      - redis
+    restart: unless-stopped

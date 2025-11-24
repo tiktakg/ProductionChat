@@ -10,6 +10,7 @@
         "dependencies": {
           "MagicOnion": "7.0.6",
           "MagicOnion.Server": "7.0.6",
+          "MagicOnion.Server.Redis": "7.0.6",
           "ProductionChat.Shared": "1.0.0"
         },
         "runtime": {
@@ -127,6 +128,22 @@
           }
         }
       },
+      "MagicOnion.Server.Redis/7.0.6": {
+        "dependencies": {
+          "Grpc.AspNetCore.Server": "2.57.0",
+          "Grpc.Core.Api": "2.57.0",
+          "MagicOnion.Server": "7.0.6",
+          "MessagePack": "3.1.1",
+          "Multicaster": "2.1.1",
+          "Multicaster.Distributed.Redis": "2.1.1"
+        },
+        "runtime": {
+          "lib/net9.0/MagicOnion.Server.Redis.dll": {
+            "assemblyVersion": "7.0.6.0",
+            "fileVersion": "7.0.6.0"
+          }
+        }
+      },
       "MagicOnion.Shared/7.0.6": {
         "dependencies": {
           "Grpc.Core.Api": "2.57.0",
@@ -163,7 +180,15 @@
         }
       },
       "MessagePackAnalyzer/3.1.1": {},
+      "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0": {},
       "Microsoft.Extensions.Logging.Abstractions/6.0.0": {},
+      "Microsoft.Extensions.Options/8.0.2": {
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "8.0.0",
+          "Microsoft.Extensions.Primitives": "8.0.0"
+        }
+      },
+      "Microsoft.Extensions.Primitives/8.0.0": {},
       "Microsoft.NET.StringTools/17.11.4": {
         "runtime": {
           "lib/net8.0/Microsoft.NET.StringTools.dll": {
@@ -180,6 +205,44 @@
           }
         }
       },
+      "Multicaster.Distributed.Redis/2.1.1": {
+        "dependencies": {
+          "MessagePack": "3.1.1",
+          "Microsoft.Extensions.Options": "8.0.2",
+          "Multicaster": "2.1.1",
+          "StackExchange.Redis": "2.8.41"
+        },
+        "runtime": {
+          "lib/net9.0/Cysharp.Runtime.Multicaster.Distributed.Redis.dll": {
+            "assemblyVersion": "2.1.1.0",
+            "fileVersion": "2.1.1.0"
+          }
+        }
+      },
+      "Pipelines.Sockets.Unofficial/2.2.8": {
+        "dependencies": {
+          "System.IO.Pipelines": "5.0.1"
+        },
+        "runtime": {
+          "lib/net5.0/Pipelines.Sockets.Unofficial.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "2.2.8.1080"
+          }
+        }
+      },
+      "StackExchange.Redis/2.8.41": {
+        "dependencies": {
+          "Microsoft.Extensions.Logging.Abstractions": "6.0.0",
+          "Pipelines.Sockets.Unofficial": "2.2.8"
+        },
+        "runtime": {
+          "lib/net8.0/StackExchange.Redis.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.8.41.44383"
+          }
+        }
+      },
+      "System.IO.Pipelines/5.0.1": {},
       "ProductionChat.Shared/1.0.0": {
         "dependencies": {
           "MagicOnion": "7.0.6"
@@ -262,6 +325,13 @@
       "path": "magiconion.server/7.0.6",
       "hashPath": "magiconion.server.7.0.6.nupkg.sha512"
     },
+    "MagicOnion.Server.Redis/7.0.6": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-FwXnIFtvl/BmLAT9Enjnboei0tkUEPa4cDHmmtYM6DwvXVUQYTBh7keZXNk/jk3icKhNJe00Tg+dh4RJDGRfqA==",
+      "path": "magiconion.server.redis/7.0.6",
+      "hashPath": "magiconion.server.redis.7.0.6.nupkg.sha512"
+    },
     "MagicOnion.Shared/7.0.6": {
       "type": "package",
       "serviceable": true,
@@ -290,12 +360,33 @@
       "path": "messagepackanalyzer/3.1.1",
       "hashPath": "messagepackanalyzer.3.1.1.nupkg.sha512"
     },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cjWrLkJXK0rs4zofsK4bSdg+jhDLTaxrkXu4gS6Y7MAlCvRyNNgwY/lJi5RDlQOnSZweHqoyvgvbdvQsRIW+hg==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/8.0.0",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+    },
     "Microsoft.Extensions.Logging.Abstractions/6.0.0": {
       "type": "package",
       "serviceable": true,
       "sha512": "sha512-/HggWBbTwy8TgebGSX5DBZ24ndhzi93sHUBDvP1IxbZD7FDokYzdAr6+vbWGjw2XAfR2EJ1sfKUotpjHnFWPxA==",
       "path": "microsoft.extensions.logging.abstractions/6.0.0",
       "hashPath": "microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Options/8.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-dWGKvhFybsaZpGmzkGCbNNwBD1rVlWzrZKANLW/CcbFJpCEceMCGzT7zZwHOGBCbwM0SzBuceMj5HN1LKV1QqA==",
+      "path": "microsoft.extensions.options/8.0.2",
+      "hashPath": "microsoft.extensions.options.8.0.2.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/8.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-bXJEZrW9ny8vjMF1JV253WeLhpEVzFo1lyaZu1vQ4ZxWUlVvknZ/+ftFgVheLubb4eZPSwwxBeqS1JkCOjxd8g==",
+      "path": "microsoft.extensions.primitives/8.0.0",
+      "hashPath": "microsoft.extensions.primitives.8.0.0.nupkg.sha512"
     },
     "Microsoft.NET.StringTools/17.11.4": {
       "type": "package",
@@ -310,6 +401,34 @@
       "sha512": "sha512-KhcxjWkOG7jwUQwqf6sV8lDMPfj6pn2mhz14q4a4Tkt9ZpH5J4QPZgFw0gyt+Isr4nwPGt8E/FeiRy0aQKBGJg==",
       "path": "multicaster/2.1.1",
       "hashPath": "multicaster.2.1.1.nupkg.sha512"
+    },
+    "Multicaster.Distributed.Redis/2.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AnQ4X9UVrvYT+B391PCMecATUOn/JbsB6X+PbqgXcRSArX4XZX4vDJEJ37ul/GvcVr6+C7WbMkfPuL/QGQ42Pw==",
+      "path": "multicaster.distributed.redis/2.1.1",
+      "hashPath": "multicaster.distributed.redis.2.1.1.nupkg.sha512"
+    },
+    "Pipelines.Sockets.Unofficial/2.2.8": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zG2FApP5zxSx6OcdJQLbZDk2AVlN2BNQD6MorwIfV6gVj0RRxWPEp2LXAxqDGZqeNV1Zp0BNPcNaey/GXmTdvQ==",
+      "path": "pipelines.sockets.unofficial/2.2.8",
+      "hashPath": "pipelines.sockets.unofficial.2.2.8.nupkg.sha512"
+    },
+    "StackExchange.Redis/2.8.41": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-EgtQzlucry9V2Gces1K19Xi8Sz/8DfoZlGQEmL/hSM/SXO/ucDS5RPmLzcmT489ZNGFbj9CGhlpscPLOXtYWwA==",
+      "path": "stackexchange.redis/2.8.41",
+      "hashPath": "stackexchange.redis.2.8.41.nupkg.sha512"
+    },
+    "System.IO.Pipelines/5.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-qEePWsaq9LoEEIqhbGe6D5J8c9IqQOUuTzzV6wn1POlfdLkJliZY3OlB0j0f17uMWlqZYjH7txj+2YbyrIA8Yg==",
+      "path": "system.io.pipelines/5.0.1",
+      "hashPath": "system.io.pipelines.5.0.1.nupkg.sha512"
     },
     "ProductionChat.Shared/1.0.0": {
       "type": "project",

@@ -3,38 +3,35 @@
   "WorkspaceRootPath": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u0413\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\ProductionChat\\ProductionChat\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u0413\u0443\u043F\u0430\u043B\u043E\\AppData\\Local\\SourceServer\\8396cb41703c216d24c7cd729c884834f61fb0e29125e1e198578c7e0b189867\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\Task.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9B5548A8-DA06-440E-A239-5CB4D835BDEA}|ProductionChat.Server.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439 \u0433\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\productionchat\\productionchat\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9B5548A8-DA06-440E-A239-5CB4D835BDEA}|ProductionChat.Server.csproj|solutionrelative:notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{413050E8-0CDB-4A7F-BD35-9AF0E201C165}|..\\ProductionChatClient\\ProductionChat.Client.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439 \u0433\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\productionchat\\productionchatclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u0413\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\ProductionChat\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u0413\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\ProductionChat\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5548A8-DA06-440E-A239-5CB4D835BDEA}|ProductionChat.Server.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439 \u0433\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\productionchat\\productionchat\\productionchat.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9B5548A8-DA06-440E-A239-5CB4D835BDEA}|ProductionChat.Server.csproj|solutionrelative:productionchat.server.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u0413\u0443\u043F\u0430\u043B\u043E\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9B5548A8-DA06-440E-A239-5CB4D835BDEA}|ProductionChat.Server.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439 \u0433\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\productionchat\\productionchat\\chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B5548A8-DA06-440E-A239-5CB4D835BDEA}|ProductionChat.Server.csproj|solutionrelative:chathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{413050E8-0CDB-4A7F-BD35-9AF0E201C165}|..\\ProductionChatClient\\ProductionChat.Client.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439 \u0433\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\productionchat\\productionchatclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9B5548A8-DA06-440E-A239-5CB4D835BDEA}|ProductionChat.Server.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439 \u0433\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\productionchat\\productionchat\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9B5548A8-DA06-440E-A239-5CB4D835BDEA}|ProductionChat.Server.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E57F7C2-1428-43C3-8E0B-CCB467C07FB9}|..\\ProductionChat.Shared\\ProductionChat.Shared.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439 \u0433\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\productionchat\\productionchat.shared\\interfaces\\ichathubreceiver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E57F7C2-1428-43C3-8E0B-CCB467C07FB9}|..\\ProductionChat.Shared\\ProductionChat.Shared.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439 \u0433\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\productionchat\\productionchat.shared\\dtos\\joinrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6E57F7C2-1428-43C3-8E0B-CCB467C07FB9}|..\\ProductionChat.Shared\\ProductionChat.Shared.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439 \u0433\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\productionchat\\productionchat.shared\\interfaces\\ichathub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9B5548A8-DA06-440E-A239-5CB4D835BDEA}|ProductionChat.Server.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439 \u0433\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\productionchat\\productionchat\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9B5548A8-DA06-440E-A239-5CB4D835BDEA}|ProductionChat.Server.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{413050E8-0CDB-4A7F-BD35-9AF0E201C165}|..\\ProductionChatClient\\ProductionChat.Client.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439 \u0433\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\productionchat\\productionchatclient\\productionchat.client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{9B5548A8-DA06-440E-A239-5CB4D835BDEA}|ProductionChat.Server.csproj|c:\\users\\\u0441\u0435\u0440\u0433\u0435\u0439 \u0433\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\productionchat\\productionchat\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9B5548A8-DA06-440E-A239-5CB4D835BDEA}|ProductionChat.Server.csproj|solutionrelative:notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -44,8 +41,22 @@
       "DocumentGroups": [
         {
           "DockedWidth": 298,
-          "SelectedChildIndex": 16,
+          "SelectedChildIndex": 17,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u0413\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\ProductionChat\\Dockerfile",
+              "RelativeDocumentMoniker": "..\\Dockerfile",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u0413\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\ProductionChat\\Dockerfile",
+              "RelativeToolTip": "..\\Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBoAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-11-24T14:47:46.309Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:133:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
@@ -113,132 +124,102 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AgIAAN0UAAAAAAAAAAAEwPMUAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-11-24T11:50:53.783Z",
-              "EditorCaption": ""
+              "Title": "Task.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u0413\u0443\u043F\u0430\u043B\u043E\\AppData\\Local\\SourceServer\\8396cb41703c216d24c7cd729c884834f61fb0e29125e1e198578c7e0b189867\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\Task.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\8396cb41703c216d24c7cd729c884834f61fb0e29125e1e198578c7e0b189867\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\Task.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u0413\u0443\u043F\u0430\u043B\u043E\\AppData\\Local\\SourceServer\\8396cb41703c216d24c7cd729c884834f61fb0e29125e1e198578c7e0b189867\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\Task.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\SourceServer\\8396cb41703c216d24c7cd729c884834f61fb0e29125e1e198578c7e0b189867\\src\\libraries\\System.Private.CoreLib\\src\\System\\Threading\\Tasks\\Task.cs [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]",
+              "ViewState": "AgIAAFoHAAAAAAAAAADwv2EHAAANAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T15:02:42.546Z",
+              "EditorCaption": " [\u0422\u043E\u043B\u044C\u043A\u043E \u0447\u0442\u0435\u043D\u0438\u0435]"
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "NotificationService.cs",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u0413\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\ProductionChat\\ProductionChat\\NotificationService.cs",
-              "RelativeDocumentMoniker": "NotificationService.cs",
-              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u0413\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\ProductionChat\\ProductionChat\\NotificationService.cs",
-              "RelativeToolTip": "NotificationService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T11:50:02.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IChatHubReceiver.cs",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u0413\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\ProductionChat\\ProductionChat.Shared\\Interfaces\\IChatHubReceiver.cs",
-              "RelativeDocumentMoniker": "..\\ProductionChat.Shared\\Interfaces\\IChatHubReceiver.cs",
-              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u0413\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\ProductionChat\\ProductionChat.Shared\\Interfaces\\IChatHubReceiver.cs",
-              "RelativeToolTip": "..\\ProductionChat.Shared\\Interfaces\\IChatHubReceiver.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T11:48:14.2Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u0413\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\ProductionChat\\ProductionChat\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u0413\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\ProductionChat\\ProductionChat\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-11-24T11:43:17.655Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductionChat.Client",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u0413\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\ProductionChat\\ProductionChatClient\\ProductionChat.Client.csproj",
-              "RelativeDocumentMoniker": "..\\ProductionChatClient\\ProductionChat.Client.csproj",
-              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u0413\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\ProductionChat\\ProductionChatClient\\ProductionChat.Client.csproj",
-              "RelativeToolTip": "..\\ProductionChatClient\\ProductionChat.Client.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-24T11:42:59.073Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "JoinRequest.cs",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u0413\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\ProductionChat\\ProductionChat.Shared\\DTOs\\JoinRequest.cs",
-              "RelativeDocumentMoniker": "..\\ProductionChat.Shared\\DTOs\\JoinRequest.cs",
-              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u0413\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\ProductionChat\\ProductionChat.Shared\\DTOs\\JoinRequest.cs",
-              "RelativeToolTip": "..\\ProductionChat.Shared\\DTOs\\JoinRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T11:36:14.185Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u0413\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\ProductionChat\\ProductionChatClient\\Program.cs",
               "RelativeDocumentMoniker": "..\\ProductionChatClient\\Program.cs",
               "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u0413\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\ProductionChat\\ProductionChatClient\\Program.cs",
               "RelativeToolTip": "..\\ProductionChatClient\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACsAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAQwA4AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T11:14:29.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u0413\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\ProductionChat\\ProductionChat\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u0413\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\ProductionChat\\ProductionChat\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T11:13:24.038Z",
+              "WhenOpened": "2025-11-24T14:59:35.86Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u0413\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\ProductionChat\\docker-compose.yml",
+              "RelativeDocumentMoniker": "..\\docker-compose.yml",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u0413\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\ProductionChat\\docker-compose.yml",
+              "RelativeToolTip": "..\\docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-11-24T14:47:49.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Container.targets",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u0413\u0443\u043F\u0430\u043B\u043E\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u0413\u0443\u043F\u0430\u043B\u043E\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.21.0\\build\\Container.targets",
+              "ViewState": "AgIAAMwAAAAAAAAAAIAwwNsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-11-24T14:38:46.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductionChat.Server.csproj",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u0413\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\ProductionChat\\ProductionChat\\ProductionChat.Server.csproj",
+              "RelativeDocumentMoniker": "ProductionChat.Server.csproj",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u0413\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\ProductionChat\\ProductionChat\\ProductionChat.Server.csproj",
+              "RelativeToolTip": "ProductionChat.Server.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-24T13:59:33.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "ChatHub.cs",
               "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u0413\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\ProductionChat\\ProductionChat\\ChatHub.cs",
               "RelativeDocumentMoniker": "ChatHub.cs",
               "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u0413\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\ProductionChat\\ProductionChat\\ChatHub.cs",
               "RelativeToolTip": "ChatHub.cs",
-              "ViewState": "AgIAACoAAAAAAAAAAAAowC0AAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T11:12:15.705Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T12:09:04.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u0413\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\ProductionChat\\ProductionChat\\NotificationService.cs",
+              "RelativeDocumentMoniker": "NotificationService.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u0413\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\ProductionChat\\ProductionChat\\NotificationService.cs",
+              "RelativeToolTip": "NotificationService.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T12:09:04.003Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "IChatHub.cs",
-              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u0413\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\ProductionChat\\ProductionChat.Shared\\Interfaces\\IChatHub.cs",
-              "RelativeDocumentMoniker": "..\\ProductionChat.Shared\\Interfaces\\IChatHub.cs",
-              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u0413\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\ProductionChat\\ProductionChat.Shared\\Interfaces\\IChatHub.cs",
-              "RelativeToolTip": "..\\ProductionChat.Shared\\Interfaces\\IChatHub.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAARAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u0413\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\ProductionChat\\ProductionChat\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\\u0421\u0435\u0440\u0433\u0435\u0439 \u0413\u0443\u043F\u0430\u043B\u043E\\source\\repos\\tiktakg\\ProductionChat\\ProductionChat\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBkAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-24T11:12:10.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T12:08:54.808Z"
             }
           ]
         },

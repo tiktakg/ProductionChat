@@ -13,7 +13,12 @@ builder.WebHost.ConfigureKestrel(options =>
     });
 });
 builder.Services.AddHostedService<NotificationService>();
-builder.Services.AddMagicOnion();
+builder.Services.AddMagicOnion()
+    .UseRedisGroup(options =>
+    {
+        options.ConnectionString = "localhost:6379";
+    });
+
 
 var app = builder.Build();
 app.MapMagicOnionService();

@@ -35,3 +35,7 @@ C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\Productio
 C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\ProductionChatClient\obj\Debug\net9.0\ProductionChat.Client.pdb
 C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\ProductionChatClient\obj\Debug\net9.0\ProductionChat.Client.genruntimeconfig.cache
 C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\ProductionChatClient\obj\Debug\net9.0\ref\ProductionChat.Client.dll
+C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\ProductionChatClient\bin\Debug\net9.0\MagicOnion.Server.Redis.dll
+C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\ProductionChatClient\bin\Debug\net9.0\Cysharp.Runtime.Multicaster.Distributed.Redis.dll
+C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\ProductionChatClient\bin\Debug\net9.0\Pipelines.Sockets.Unofficial.dll
+C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\ProductionChatClient\bin\Debug\net9.0\StackExchange.Redis.dll
