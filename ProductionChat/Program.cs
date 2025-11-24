@@ -2,6 +2,7 @@
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Server.Kestrel.Core;
 using Microsoft.Extensions.DependencyInjection;
+using ProductionChat.Server;
 
 var builder = WebApplication.CreateBuilder(args);
 builder.WebHost.ConfigureKestrel(options =>
@@ -11,6 +12,7 @@ builder.WebHost.ConfigureKestrel(options =>
         endpointOptions.Protocols = HttpProtocols.Http2;
     });
 });
+builder.Services.AddHostedService<NotificationService>();
 builder.Services.AddMagicOnion();
 
 var app = builder.Build();

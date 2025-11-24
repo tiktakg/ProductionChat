@@ -27,11 +27,9 @@ Console.WriteLine($"Connected: {sessionId}");
 
 Console.Write("UserName: ");
 var userName = Console.ReadLine();
-Console.Write("RoomName: ");
-var roomName = Console.ReadLine();
 
-Console.WriteLine($"Join: RoomName={roomName}; UserName={userName}");
-await hub.JoinAsync(new JoinRequest() { RoomName = roomName, UserName = userName });
+Console.WriteLine($"Join:UserName={userName}");
+await hub.JoinAsync(new JoinRequest() { UserName = userName });
 Console.WriteLine($"Joined");
 
 while (true)
@@ -57,13 +55,7 @@ class ChatHubReceiver(Guid sessionId) : IChatHubReceiver
 
     public void OnSendMessage(MessageResponse message)
     {
-        Console.WriteLine($"{message.UserName}> {message.Message}");
+        Console.WriteLine($"{message.UserName}: {message.Message}");
     }
-
-    public async Task<string> HelloAsync(string name, int age)
-    {
-        Console.WriteLine("HelloAsync called");
-        await Task.Delay(100);
-        return $"Hello {name} ({age})!; {sessionId}";
-    }
+ 
 }

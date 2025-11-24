@@ -10,6 +10,4 @@ public interface IChatHubReceiver
 
     void OnSendMessage(MessageResponse message);
 
-
-    Task<string> HelloAsync(string name, int age);
 }
