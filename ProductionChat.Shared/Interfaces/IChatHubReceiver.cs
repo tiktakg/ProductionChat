@@ -9,5 +9,4 @@ public interface IChatHubReceiver
     void OnLeave(string name);
 
     void OnSendMessage(MessageResponse message);
-
 }

@@ -1,6 +1,7 @@
 ﻿using MagicOnion;
-using ProductionChat.Interfaces;
 using ProductionChat.Shared.DTOs;
+
+namespace ProductionChat.Interfaces;
 
 public interface IChatHub : IStreamingHub<IChatHub, IChatHubReceiver>
 {

@@ -1,5 +1,4 @@
 ﻿using Cysharp.Runtime.Multicast;
-using MagicOnion;
 using MagicOnion.Server.Hubs;
 using ProductionChat.Interfaces;
 using ProductionChat.Shared.DTOs;
@@ -18,12 +17,9 @@ namespace ProductionChat.Server
 
         public async Task JoinAsync(JoinRequest request)
         {
-                
             this.myName = request.UserName;
-
             this.roomForAll.All.OnJoin(request.UserName);
         }
-
 
         public async Task LeaveAsync()
         {
@@ -52,7 +48,6 @@ namespace ProductionChat.Server
 
         protected override ValueTask OnDisconnected()
         {
-         
             roomForAll.Remove(ConnectionId);
             return CompletedTask;
         }

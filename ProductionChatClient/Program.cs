@@ -1,5 +1,4 @@
-﻿
-using System.Runtime.CompilerServices;
+﻿using System.Runtime.CompilerServices;
 using Grpc.Net.Client;
 using MagicOnion.Client;
 using MessagePack;
@@ -9,7 +8,6 @@ using ProductionChat.Shared.DTOs;
 
 if (!RuntimeFeature.IsDynamicCodeSupported)
 {
-    // Running on Native AOT
     StaticCompositeResolver.Instance.Register(
         BuiltinResolver.Instance,
         PrimitiveObjectResolver.Instance,
@@ -57,5 +55,4 @@ class ChatHubReceiver(Guid sessionId) : IChatHubReceiver
     {
         Console.WriteLine($"{message.UserName}: {message.Message}");
     }
- 
 }
