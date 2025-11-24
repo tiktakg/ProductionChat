@@ -18,8 +18,8 @@ if (!RuntimeFeature.IsDynamicCodeSupported)
     );
     MessagePackSerializer.DefaultOptions = MessagePackSerializer.DefaultOptions.WithResolver(StaticCompositeResolver.Instance);
 }
-
-var channel = GrpcChannel.ForAddress("http://localhost:5000");
+//var channel = GrpcChannel.ForAddress("http://localhost:5000"); 
+var channel = GrpcChannel.ForAddress("http://chat-server:80"); // Для запуска  через Docker
 var sessionId = Guid.NewGuid();
 Console.WriteLine("Connecting...");
 var hub = await StreamingHubClient.ConnectAsync<IChatHub, IChatHubReceiver>(channel, new ChatHubReceiver(sessionId));

@@ -22,6 +22,5 @@ RUN dotnet publish ProductionChat/ProductionChat.Server.csproj -c Release -o /ap
 FROM mcr.microsoft.com/dotnet/aspnet:9.0
 WORKDIR /app
 COPY --from=build /app/publish .
-
 EXPOSE 80
 ENTRYPOINT ["dotnet", "ProductionChat.Server.dll"]

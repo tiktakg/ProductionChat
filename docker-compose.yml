@@ -6,13 +6,24 @@ services:
     restart: unless-stopped
 
   chat-server:
-    build: 
+    build:
       context: .
-      dockerfile: Dockerfile
+      dockerfile: Dockerfile.server
     ports:
-       - "5000-5002:80"
+      - "5000-5003:80"
     environment:
       - RedisConnection=redis:6379
+      - ASPNETCORE_URLS=http://+:80
     depends_on:
       - redis
+    restart: unless-stopped
+
+  chat-client:
+    build:
+      context: .
+      dockerfile: Dockerfile.client
+    stdin_open: true
+    tty: true
+    depends_on:
+      - chat-server
     restart: unless-stopped
