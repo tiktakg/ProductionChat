@@ -4,3 +4,35 @@ C:\Users\gupli\source\repos\ProductionChat\obj\Debug\net9.0\ProductionChat.Serve
 C:\Users\gupli\source\repos\ProductionChat\obj\Debug\net9.0\ProductionChat.Server.AssemblyInfo.cs
 C:\Users\gupli\source\repos\ProductionChat\obj\Debug\net9.0\ProductionChat.Server.csproj.CoreCompileInputs.cache
 C:\Users\gupli\source\repos\ProductionChat\obj\Debug\net9.0\ProductionChat.Server.sourcelink.json
+C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\ProductionChat\obj\Debug\net9.0\ProductionChat.Server.csproj.AssemblyReference.cache
+C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\ProductionChat\obj\Debug\net9.0\ProductionChat.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\ProductionChat\obj\Debug\net9.0\ProductionChat.Server.AssemblyInfoInputs.cache
+C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\ProductionChat\obj\Debug\net9.0\ProductionChat.Server.AssemblyInfo.cs
+C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\ProductionChat\obj\Debug\net9.0\ProductionChat.Server.csproj.CoreCompileInputs.cache
+C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\ProductionChat\obj\Debug\net9.0\ProductionChat.Server.sourcelink.json
+C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\ProductionChat\bin\Debug\net9.0\ProductionChat.Server.exe
+C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\ProductionChat\bin\Debug\net9.0\ProductionChat.Server.deps.json
+C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\ProductionChat\bin\Debug\net9.0\ProductionChat.Server.runtimeconfig.json
+C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\ProductionChat\bin\Debug\net9.0\ProductionChat.Server.dll
+C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\ProductionChat\bin\Debug\net9.0\ProductionChat.Server.pdb
+C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\ProductionChat\bin\Debug\net9.0\Grpc.AspNetCore.Server.dll
+C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\ProductionChat\bin\Debug\net9.0\Grpc.Core.Api.dll
+C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\ProductionChat\bin\Debug\net9.0\Grpc.Net.Client.dll
+C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\ProductionChat\bin\Debug\net9.0\Grpc.Net.Common.dll
+C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\ProductionChat\bin\Debug\net9.0\MagicOnion.Abstractions.dll
+C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\ProductionChat\bin\Debug\net9.0\MagicOnion.Client.dll
+C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\ProductionChat\bin\Debug\net9.0\MagicOnion.Serialization.MessagePack.dll
+C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\ProductionChat\bin\Debug\net9.0\MagicOnion.Server.dll
+C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\ProductionChat\bin\Debug\net9.0\MagicOnion.Shared.dll
+C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\ProductionChat\bin\Debug\net9.0\MessagePack.dll
+C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\ProductionChat\bin\Debug\net9.0\MessagePack.Annotations.dll
+C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\ProductionChat\bin\Debug\net9.0\Microsoft.NET.StringTools.dll
+C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\ProductionChat\bin\Debug\net9.0\Cysharp.Runtime.Multicaster.dll
+C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\ProductionChat\bin\Debug\net9.0\ProductionChat.Shared.dll
+C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\ProductionChat\bin\Debug\net9.0\ProductionChat.Shared.pdb
+C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\ProductionChat\obj\Debug\net9.0\Producti.9E6439DF.Up2Date
+C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\ProductionChat\obj\Debug\net9.0\ProductionChat.Server.dll
+C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\ProductionChat\obj\Debug\net9.0\refint\ProductionChat.Server.dll
+C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\ProductionChat\obj\Debug\net9.0\ProductionChat.Server.pdb
+C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\ProductionChat\obj\Debug\net9.0\ProductionChat.Server.genruntimeconfig.cache
+C:\Users\Сергей Гупало\source\repos\tiktakg\ProductionChat\ProductionChat\obj\Debug\net9.0\ref\ProductionChat.Server.dll

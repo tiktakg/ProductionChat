@@ -1,6 +1,15 @@
-﻿namespace ProductionChat.Interfaces;
+﻿using ProductionChat.Shared.DTOs;
+
+namespace ProductionChat.Interfaces;
 
 public interface IChatHubReceiver
 {
-    void OnReceiveMessage(string message);
+    void OnJoin(string name);
+
+    void OnLeave(string name);
+
+    void OnSendMessage(MessageResponse message);
+
+
+    Task<string> HelloAsync(string name, int age);
 }

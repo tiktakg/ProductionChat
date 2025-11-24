@@ -664,23 +664,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\gupli\\.nuget\\packages\\": {},
-    "D:\\programs\\Visual studio\\VisualStudioSdk\\NuGetPackages": {}
+    "C:\\Users\\Сергей Гупало\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gupli\\source\\repos\\ProductionChatClient\\ProductionChat.Client.csproj",
+      "projectUniqueName": "C:\\Users\\Сергей Гупало\\source\\repos\\tiktakg\\ProductionChat\\ProductionChatClient\\ProductionChat.Client.csproj",
       "projectName": "ProductionChat.Client",
-      "projectPath": "C:\\Users\\gupli\\source\\repos\\ProductionChatClient\\ProductionChat.Client.csproj",
-      "packagesPath": "C:\\Users\\gupli\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gupli\\source\\repos\\ProductionChatClient\\obj\\",
+      "projectPath": "C:\\Users\\Сергей Гупало\\source\\repos\\tiktakg\\ProductionChat\\ProductionChatClient\\ProductionChat.Client.csproj",
+      "packagesPath": "C:\\Users\\Сергей Гупало\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Сергей Гупало\\source\\repos\\tiktakg\\ProductionChat\\ProductionChatClient\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "D:\\programs\\Visual studio\\VisualStudioSdk\\NuGetPackages"
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\gupli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Сергей Гупало\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -696,8 +696,8 @@
         "net9.0": {
           "targetAlias": "net9.0",
           "projectReferences": {
-            "C:\\Users\\gupli\\source\\repos\\ProductionChat\\ProductionChat.Server.csproj": {
-              "projectPath": "C:\\Users\\gupli\\source\\repos\\ProductionChat\\ProductionChat.Server.csproj"
+            "C:\\Users\\Сергей Гупало\\source\\repos\\tiktakg\\ProductionChat\\ProductionChat\\ProductionChat.Server.csproj": {
+              "projectPath": "C:\\Users\\Сергей Гупало\\source\\repos\\tiktakg\\ProductionChat\\ProductionChat\\ProductionChat.Server.csproj"
             }
           }
         }

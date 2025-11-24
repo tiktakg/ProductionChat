@@ -1,18 +1,19 @@
-﻿using Microsoft.Extensions.DependencyInjection;
-using Microsoft.Extensions.Hosting;
-using ProductionChat.Server.Services;
+﻿using Microsoft.AspNetCore.Builder;
+using Microsoft.AspNetCore.Hosting;
+using Microsoft.AspNetCore.Server.Kestrel.Core;
+using Microsoft.Extensions.DependencyInjection;
 
-var builder = Host.CreateDefaultBuilder(args)
-    .ConfigureServices((context, services) =>
+var builder = WebApplication.CreateBuilder(args);
+builder.WebHost.ConfigureKestrel(options =>
+{
+    options.ConfigureEndpointDefaults(endpointOptions =>
     {
-        services.AddMagicOnion();
-        services.AddSingleton<NotificationService>();
+        endpointOptions.Protocols = HttpProtocols.Http2;
     });
+});
+builder.Services.AddMagicOnion();
 
-var host = builder.Build();
+var app = builder.Build();
+app.MapMagicOnionService();
 
-// Запуск уведомлений
-var notificationService = host.Services.GetRequiredService<NotificationService>();
-notificationService.Start();
-
-await host.RunAsync();
+app.Run();
