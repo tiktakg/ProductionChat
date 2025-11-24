@@ -1,0 +1,6 @@
+C:\Users\gupli\source\repos\ProductionChatClient\obj\Debug\net9.0\ProductionChatClient.csproj.AssemblyReference.cache
+C:\Users\gupli\source\repos\ProductionChatClient\obj\Debug\net9.0\ProductionChatClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gupli\source\repos\ProductionChatClient\obj\Debug\net9.0\ProductionChatClient.AssemblyInfoInputs.cache
+C:\Users\gupli\source\repos\ProductionChatClient\obj\Debug\net9.0\ProductionChatClient.AssemblyInfo.cs
+C:\Users\gupli\source\repos\ProductionChatClient\obj\Debug\net9.0\ProductionChatClient.csproj.CoreCompileInputs.cache
+C:\Users\gupli\source\repos\ProductionChatClient\obj\Debug\net9.0\ProductionChatClient.sourcelink.json

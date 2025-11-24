@@ -1,0 +1,13 @@
+C:\Users\gupli\source\repos\ProductionChat.Shared\obj\Debug\net9.0\ProductionChat.Shared.csproj.AssemblyReference.cache
+C:\Users\gupli\source\repos\ProductionChat.Shared\obj\Debug\net9.0\ProductionChat.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gupli\source\repos\ProductionChat.Shared\obj\Debug\net9.0\ProductionChat.Shared.AssemblyInfoInputs.cache
+C:\Users\gupli\source\repos\ProductionChat.Shared\obj\Debug\net9.0\ProductionChat.Shared.AssemblyInfo.cs
+C:\Users\gupli\source\repos\ProductionChat.Shared\obj\Debug\net9.0\ProductionChat.Shared.csproj.CoreCompileInputs.cache
+C:\Users\gupli\source\repos\ProductionChat.Shared\obj\Debug\net9.0\ProductionChat.Shared.sourcelink.json
+C:\Users\gupli\source\repos\ProductionChat.Shared\bin\Debug\net9.0\ProductionChat.Shared.deps.json
+C:\Users\gupli\source\repos\ProductionChat.Shared\bin\Debug\net9.0\ProductionChat.Shared.dll
+C:\Users\gupli\source\repos\ProductionChat.Shared\bin\Debug\net9.0\ProductionChat.Shared.pdb
+C:\Users\gupli\source\repos\ProductionChat.Shared\obj\Debug\net9.0\ProductionChat.Shared.dll
+C:\Users\gupli\source\repos\ProductionChat.Shared\obj\Debug\net9.0\refint\ProductionChat.Shared.dll
+C:\Users\gupli\source\repos\ProductionChat.Shared\obj\Debug\net9.0\ProductionChat.Shared.pdb
+C:\Users\gupli\source\repos\ProductionChat.Shared\obj\Debug\net9.0\ref\ProductionChat.Shared.dll

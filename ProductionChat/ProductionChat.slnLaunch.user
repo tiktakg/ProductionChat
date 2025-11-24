@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ProductionChat.Server.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\ProductionChatClient\\ProductionChat.Client.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
